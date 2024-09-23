@@ -8,11 +8,11 @@ Lauren Thiel
 
 
 
-<span style="color:rgba(245,158,11,1)">Loves & Hates</span>
+### Loves & Hates
 
 
 
-3 references in design and media of things that you <span style="color:rgba(244,63,94,1)">love</span>.
+#### 3 references in design and media of things that you love
 
 - VR sport games
 
@@ -36,19 +36,19 @@ Lauren Thiel
 
 
 
-- 1 reference of something you <span style="color:rgba(99,102, 241,1)">hate</span>.
+#### 1 reference of something you <span style="color:rgba(99,102, 241,1)">hate</span>.
 
   - webdesign
 
   
 
-- 1 chosen studio or practitioner
+#### 1 chosen studio or practitioner
 
   - [Augustin Rebetez](https://www.instagram.com/maisontotale_/)
 ![](IMG_6233.jpg)
   
 
-- 1 field of interest or area you would like to explore this year.
+#### 1 field of interest or area you would like to explore this year.
 
   - Designing VR sport games
   - procedural generation ?
