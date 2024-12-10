@@ -17,10 +17,10 @@ This journal documents my journey in choosing and exploring a project idea for m
 ##### VR Sport game
 I'd like to make an innovative Sports game for VR.
 
-- On VRCHAT ?
+- On VRCHAT?
 	 High latency but very social and accessible
 	 
-- With FBT ?
+- With FBT?
 	 Good for innovation but not that many people have FBT
 	 
 - New locomotion system?
@@ -42,7 +42,7 @@ To do
 - [ ] Publish and host the exergame vault to ref existing VR sports games
 - [ ] Add a VRchat tag and gather examples of VRchat worlds for exercising.
 - [x] Sketch initial sport mechanics ideas (as many as possible)
-![[IMG_7928.jpg]]
+![[images/IMG_7928.jpg]]
 - [ ] Analyse why I like football so much.
 - [ ] Test the harness setup in class (get climbing ropes)!
 
