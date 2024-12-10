@@ -42,7 +42,7 @@ To do
 - [ ] Add a VRchat tag and gather examples of VRchat worlds for exercising.
 - [x] Sketch initial sport mechanics ideas (as many as possible)
 
-![[images/IMG_7928.jpg]]
+![hand written ideas](images/IMG_7928.jpg)
 
 - [ ] Analyse why I like football so much.
 - [ ] Test the harness setup in class (get climbing ropes)!
