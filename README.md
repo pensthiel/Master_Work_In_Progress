@@ -36,14 +36,19 @@ Test day Ideas:
 - Get others to try the harness (if it's safe enough)
 - Do field research, asking people about what sports the like and why
 <br>
+
 To do
 - [ ] Publish and host the exergame vault to ref existing VR sports games
 - [ ] Add a VRchat tag and gather examples of VRchat worlds for exercising.
 - [x] Sketch initial sport mechanics ideas (as many as possible)
+
 ![[images/IMG_7928.jpg]]
+
 - [ ] Analyse why I like football so much.
 - [ ] Test the harness setup in class (get climbing ropes)!
 
 <br>
+
 I quite like the fish people idea
+
 ![Zora - Zelda Wiki](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1c/BotW_Zora_Species.png/revision/latest?cb=20190321162038)<br><br>
