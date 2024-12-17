@@ -4,10 +4,14 @@
 This journal documents my journey in choosing and exploring a project idea for my 2025 Master's project in head media design.
 
 1. [2024-12-10](#2024-12-10) First-day ideas
-2. [](#) Link Title
-3. [](#) Link Title
+2. [2024-12-16](#2024-12-16) Sport design/sketches
+3.  [2024-12-17](#2024-12-17) Preparations for test day
 4. [](#) Link Title
 5. [](#) Link Title
+6. [](#) Link Title
+7. [](#) Link Title
+8. [](#) Link Title
+9. [](#) Link Title
 <br><br>
 ###### 2024-12-10
 ## First day ideas
@@ -51,4 +55,44 @@ To do
 
 I quite like the fish people idea
 
-![Zora - Zelda Wiki](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1c/BotW_Zora_Species.png/revision/latest?cb=20190321162038)<br><br>
+![Zora - Zelda Wiki](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1c/BotW_Zora_Species.png/revision/latest?cb=20190321162038)
+<br><br>
+###### 2024-12-16
+## Sport design / sketches
+
+![sketches](images/IMG_8023.jpg)
+![sketches](images/IMG_8024.jpg)
+
+
+###### 2024-12-17
+## Preparations for test day
+
+In a fairly large area, about 5x4m, there will be goals on each side, a ball, and color-coded players. Hopefully, there will be three players on each team.
+<br>
+The players will play the game with the following rules:
+- Like in football, the game starts with both teams on their respective sides. The ball is thrown up in the middle to initiate the game.
+- After each goal, the game is kickstarted in the same way again.
+- If the opposite team touches the player with the ball, they freeze and drop it. 
+- If you are frozen, a teammate has to touch you to unfreeze you.
+- If the whole team is frozen, they unfreeze immediately.
+- The players can move with or without the ball but must walk a certain way (to limit the speed). For example, both feet have to meet at each step.
+- The time limit is 2 minutes?
+<br>
+If the balance is off, we will add new rules:
+- longer or shorter time limit
+- Adding or removing speed limitations?
+- Goals closed by default; does a player have to hold it open for the teammate to score?
+- 5-second timer when you froze
+- Can you freeze any players or only the one holding the ball?
+<br>
+OBSERVE:
+- Is it fun?
+- Does it work?
+- Is the space too small?
+- How are people overturning the rules?
+- What tactics emerge?
+- Any feedback
+
+
+
+![sketches](images/IMG_8025.jpg)
