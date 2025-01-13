@@ -43,19 +43,21 @@ Test day Ideas:
 
 To do
 - [ ] Publish and host the exergame vault to ref existing VR sports games
-- [ ] Add a VRchat tag and gather examples of VRchat worlds for exercising.
+- [x] Add a VRchat tag and gather examples of VRchat worlds for exercising.
 - [x] Sketch initial sport mechanics ideas (as many as possible)
 
 ![hand written ideas](images/IMG_7928.jpg)
 
-- [ ] Analyse why I like football so much.
+- [x] Analyse why I like football so much.
+- Because in solo sports i have no motivation to win, I need to play with a team in games that requires teamwork, like football and volleyball.
 - [ ] Test the harness setup in class (get climbing ropes)!
 
 <br>
 
-I quite like the fish people idea
+I like the fish people idea
 
 ![Zora - Zelda Wiki](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1c/BotW_Zora_Species.png/revision/latest?cb=20190321162038)
+(from Zelda breath of the wild)
 <br><br>
 ###### 2024-12-16
 ## Sport design / sketches
@@ -97,7 +99,7 @@ OBSERVE:
 
 ![sketches](images/IMG_8025.jpg)
 ![sketches](images/IMG_8026.jpg)
-![sketches](images/IMG_8027.jpg)![[IMG_8028.jpg]]
+![sketches](images/IMG_8027.jpg)
 <br>
 <br>
 ###### 2024-12-18
@@ -122,11 +124,20 @@ The slow pace and FreezeTag element worked in encouraging team play.
 <br>
 ##### Afternoon
 I had to test quickly, but it was a lot of fun for the players again. They liked being restricted in speed, which they thought was fun. They liked the idea of the fish being alive and moving independently when it's not held or thrown. 
+
 Someone asked if, in the ocean setting, the frozen people would "drown" or, more like, drop to the bottom slowly because they're not swimming anymore. I thought it was interesting.
-That Idea made me think about how being frozen is a bit like being electrified/stunned so... The characters could look like Eels...
-A few ocean creatures have interesting defence mechanisms: Eels, jellyfish, the inflated fish guy, etc... I want to look into that for the design.
+That Idea made me think about how being frozen is a bit like being electrified/stunned so... The characters could look like Eels... A few ocean creatures have interesting defence mechanisms: Eels, jellyfish, the inflated fish guy, etc... I want to look into that for the design.
+
 They also wondered how you hold the ball if you're swimming and how the physics will differ in VR because it's underwater physics.
 
 I tested being frozen for 5 sec vs 10 sec, and it seemed too boring to be stuck for 10 sec. In that setting, the timer worked better than being touched by a teammate because it was hard to know if we were being touched.
 
 But everyone enjoyed the game and some other students wanted to try it too so it seemed to have sparked interest.
+
+<br>
+<br>
+
+###### 2025-01-
+
+## Poster / concept art
+
