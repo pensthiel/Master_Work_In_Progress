@@ -96,3 +96,37 @@ OBSERVE:
 
 
 ![sketches](images/IMG_8025.jpg)
+![sketches](images/IMG_8026.jpg)
+![sketches](images/IMG_8027.jpg)![[IMG_8028.jpg]]
+<br>
+<br>
+###### 2024-12-18
+## Test day
+
+We tested playing a physical version of FinBall with paper props.
+
+3 versus 3, area of 6x3m approximately.
+
+It worked well and was fun; the pace had to be slowed because of the small space (small steps).
+
+The teams wanted to take a team picture before the game = team pic feature!
+(it reminds me of vrchat volley that gives you pictures of you playing at the end of the game, and they are local, so each player gets pictures of themselves playing)
+
+Because it worked so well and people enjoyed the physicality, making an AR game has been suggested. I like the Idea, but we would lose the 3d space and such. It would be a very different sport but still enjoyable. Eventually, I would like to make a team AR game that is meant to be played in a large space eventually.
+
+I tried to emulate the "currents" element that randomly pushes people, and It was well received; it seems to make for a fun, unpredictable element.
+
+The teams naturally and quickly started quick-passing to teammates and making strategies while trying to position themselves better, assigning defence and attack ect...
+
+The slow pace and FreezeTag element worked in encouraging team play.
+<br>
+##### Afternoon
+I had to test quickly, but it was a lot of fun for the players again. They liked being restricted in speed, which they thought was fun. They liked the idea of the fish being alive and moving independently when it's not held or thrown. 
+Someone asked if, in the ocean setting, the frozen people would "drown" or, more like, drop to the bottom slowly because they're not swimming anymore. I thought it was interesting.
+That Idea made me think about how being frozen is a bit like being electrified/stunned so... The characters could look like Eels...
+A few ocean creatures have interesting defence mechanisms: Eels, jellyfish, the inflated fish guy, etc... I want to look into that for the design.
+They also wondered how you hold the ball if you're swimming and how the physics will differ in VR because it's underwater physics.
+
+I tested being frozen for 5 sec vs 10 sec, and it seemed too boring to be stuck for 10 sec. In that setting, the timer worked better than being touched by a teammate because it was hard to know if we were being touched.
+
+But everyone enjoyed the game and some other students wanted to try it too so it seemed to have sparked interest.
