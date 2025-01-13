@@ -3,15 +3,21 @@
 
 This journal documents my journey in choosing and exploring a project idea for my 2025 Master's project in head media design.
 
+###### navigation
+
 1. [2024-12-10](#2024-12-10) First-day ideas
 2. [2024-12-16](#2024-12-16) Sport design/sketches
-3.  [2024-12-17](#2024-12-17) Preparations for test day
-4. [](#) Link Title
-5. [](#) Link Title
-6. [](#) Link Title
-7. [](#) Link Title
+3. [2024-12-17](#2024-12-17) Preparations for test day
+4. [2024-12-18](#2024-12-18) Test day
+5. [2025-01-08](#2025-01-08) Poster / concept art
+6. [2025-01-09](#2025-01-09) Workplace set up
+7. [2025-01-13](#2025-01-13) VRChat for testing
 8. [](#) Link Title
 9. [](#) Link Title
+10. [](#) Link Title
+11. [](#) Link Title
+12. [](#) Link Title
+13. [](#) Link Title
 <br><br>
 ###### 2024-12-10
 ## First day ideas
@@ -58,48 +64,30 @@ I like the fish people idea
 
 ![Zora - Zelda Wiki](https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/1c/BotW_Zora_Species.png/revision/latest?cb=20190321162038)
 (from Zelda breath of the wild)
-<br><br>
+
+[Back to navigation](#navigation)
+<br>
+<br>
 ###### 2024-12-16
 ## Sport design / sketches
 
 ![sketches](images/IMG_8023.jpg)
 ![sketches](images/IMG_8024.jpg)
-
+[Back to navigation](#navigation)
+<br>
+<br>
 
 ###### 2024-12-17
 ## Preparations for test day
 
 In a fairly large area, about 5x4m, there will be goals on each side, a ball, and color-coded players. Hopefully, there will be three players on each team.
-<br>
-The players will play the game with the following rules:
-- Like in football, the game starts with both teams on their respective sides. The ball is thrown up in the middle to initiate the game.
-- After each goal, the game is kickstarted in the same way again.
-- If the opposite team touches the player with the ball, they freeze and drop it. 
-- If you are frozen, a teammate has to touch you to unfreeze you.
-- If the whole team is frozen, they unfreeze immediately.
-- The players can move with or without the ball but must walk a certain way (to limit the speed). For example, both feet have to meet at each step.
-- The time limit is 2 minutes?
-<br>
-If the balance is off, we will add new rules:
-- longer or shorter time limit
-- Adding or removing speed limitations?
-- Goals closed by default; does a player have to hold it open for the teammate to score?
-- 5-second timer when you froze
-- Can you freeze any players or only the one holding the ball?
-<br>
-OBSERVE:
-- Is it fun?
-- Does it work?
-- Is the space too small?
-- How are people overturning the rules?
-- What tactics emerge?
-- Any feedback
-
-
 
 ![sketches](images/IMG_8025.jpg)
 ![sketches](images/IMG_8026.jpg)
 ![sketches](images/IMG_8027.jpg)
+![sketches](images/IMG_8028.jpg)
+![rules](images/image.jpg)
+[Back to navigation](#navigation)
 <br>
 <br>
 ###### 2024-12-18
@@ -111,8 +99,15 @@ We tested playing a physical version of FinBall with paper props.
 
 It worked well and was fun; the pace had to be slowed because of the small space (small steps).
 
+![screenshot](images\WhatsApp12.jpg)
+![screenshot](images\WhatsApp11.jpg)
+![video](images\WhatsApp7.mp4)
+
 The teams wanted to take a team picture before the game = team pic feature!
 (it reminds me of vrchat volley that gives you pictures of you playing at the end of the game, and they are local, so each player gets pictures of themselves playing)
+
+![Team-pictures](images\WhatsApp4.jpeg)
+![Team-pictures](images\WhatsApp5.jpeg)
 
 Because it worked so well and people enjoyed the physicality, making an AR game has been suggested. I like the Idea, but we would lose the 3d space and such. It would be a very different sport but still enjoyable. Eventually, I would like to make a team AR game that is meant to be played in a large space eventually.
 
@@ -120,24 +115,69 @@ I tried to emulate the "currents" element that randomly pushes people, and It wa
 
 The teams naturally and quickly started quick-passing to teammates and making strategies while trying to position themselves better, assigning defence and attack ect...
 
+![screenshot](images\WhatsApp10.jpg)
+
 The slow pace and FreezeTag element worked in encouraging team play.
+
+![screenshot](images\WhatsApp15.jpg)
 <br>
 ##### Afternoon
 I had to test quickly, but it was a lot of fun for the players again. They liked being restricted in speed, which they thought was fun. They liked the idea of the fish being alive and moving independently when it's not held or thrown. 
+
+![video](images\WhatsApp8.mp4)
 
 Someone asked if, in the ocean setting, the frozen people would "drown" or, more like, drop to the bottom slowly because they're not swimming anymore. I thought it was interesting.
 That Idea made me think about how being frozen is a bit like being electrified/stunned so... The characters could look like Eels... A few ocean creatures have interesting defence mechanisms: Eels, jellyfish, the inflated fish guy, etc... I want to look into that for the design.
 
 They also wondered how you hold the ball if you're swimming and how the physics will differ in VR because it's underwater physics.
 
+![screenshot](images\WhatsApp13.jpg)
+
 I tested being frozen for 5 sec vs 10 sec, and it seemed too boring to be stuck for 10 sec. In that setting, the timer worked better than being touched by a teammate because it was hard to know if we were being touched.
 
 But everyone enjoyed the game and some other students wanted to try it too so it seemed to have sparked interest.
 
+[Back to navigation](#navigation)
+<br>
+<br>
+
+###### 2025-01-08
+## Poster / concept art
+
+![drawing](images/image.webp)
+I thought the poster would be a good occasion to visualize what I imagine the "fish people avatars" to look like while they play under water.
+
+![poster-wip](Poster/Screenshotwip.png)
+[Back to navigation](#navigation)
+<br>
+<br>
+
+###### 2025-01-09
+## Workplace set up
+
+For working and prototyping in VR I will need:
+- [x] strong Windows PC (brought my own to class)
+- [x] Rooter (borrowed from media design)
+- [x] 4g sim card (because the school internet is too restrictive, brought my own)
+- [x] quest 3 (borrowed from medias design)
+- [x] quest 3 accessories for confort (brought my own quest strap)
+
+![setup](images/IMG_8341.webp)
+[Back to navigation](#navigation)
+<br>
+<br>
+
+###### 2025-01-13
+## VRChat for testing
+![setup](images\vrchat-logo-white-transparent-crop-background.png)
+I've been looking into the [udon sharp documentation](https://udonsharp.docs.vrchat.com/) to see if i could make a Swimming system for moving in VR and it seems possible so I decided to prototype it in VRChat.
+
+The point of VRchat is that I can get my online friends to test it directly in-game, with their VR, from wherever they live and I can record their feedback or reactions in the game.
+
+![setup](images/screenshot2.png)
+[Back to navigation](#navigation)
 <br>
 <br>
 
 ###### 2025-01-
-
-## Poster / concept art
-
+## 
