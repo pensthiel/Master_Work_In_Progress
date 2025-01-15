@@ -195,6 +195,8 @@ Here it is, anyone can enter it in VRChat but it doesn't work without VR.
 - there were some gray spheres that turn yellow if you activate them, the idea is that you can swim to each sphere to activate it, to test/practice swimming.
 - 4 people were able to join and test, they are all used to VR and play vrchat regularly.
 
+![video](images/vrchat-testing1.MP4)
+
 ![screenshot](images/Screenshot4.png)
 ![screenshot](images/Screenshot5.png)
 
@@ -203,6 +205,7 @@ Feedback
 - one issue I'll have to fix is that when people loose tracking they get "ejected" far away, since the code calculates the differance in hand position frame to frame. if the hand gets teleported it means that distance was big and it will apply a big movement force.
 - The same applies to the "respawn" action.
 
+![video](images/vrchat-testing2.MP4)
 
 ![screenshot](images/Screenshot6.png)
 
@@ -226,3 +229,5 @@ To do for the next test:
 - prototype a "goal" that shows point when the ball goes through
 
 [Back to navigation](#navigation)
+
+
