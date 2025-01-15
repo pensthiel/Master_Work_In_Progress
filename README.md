@@ -182,7 +182,7 @@ The point of VRchat is that I can get my online friends to test it directly in-g
 ###### 2025-01-15
 ## First VRChat test
 
-![screenshot](images/screenshot3.png)
+![screenshot](images/Screenshot3.png)
 
 
 I've uploaded a test world into VRChat with the swimming code I had been working on, I then invited my friends to test it with their VR on the vrchat platform. It worked quite well.
@@ -195,8 +195,8 @@ Here it is, anyone can enter it in VRChat but it doesn't work without VR.
 - there were some gray spheres that turn yellow if you activate them, the idea is that you can swim to each sphere to activate it, to test/practice swimming.
 - 4 people were able to join and test, they are all used to VR and play vrchat regularly.
 
-![screenshot](images/screenshot4.png)
-![screenshot](images/screenshot5.png)
+![screenshot](images/Screenshot4.png)
+![screenshot](images/Screenshot5.png)
 
 Feedback
 - it works to swim with the traditional swimming movement but people were quickly drawn to a simpler move of waving their hands in the direction they want to swim.
@@ -204,7 +204,7 @@ Feedback
 - The same applies to the "respawn" action.
 
 
-![screenshot](images/screenshot6.png)
+![screenshot](images/Screenshot6.png)
 
 Overall the swimming was very fun to use, and it didn't cause too much sickness because of how the players stay upright and don't rotate upside down
 
@@ -213,7 +213,7 @@ Some additional observations
 - the networking was laggy for the ball because i was not updating the position each frame
 - when we reach to grab the ball, the palm faces the ball and so it makes us swim away from the ball
 
-![screenshot](images/screenshot7.png)
+![screenshot](images/Screenshot7.png)
 ![screenshot](images/Screenshot8.png)
 
 To do for the next test:
