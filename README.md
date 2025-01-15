@@ -99,9 +99,9 @@ We tested playing a physical version of FinBall with paper props.
 
 It worked well and was fun; the pace had to be slowed because of the small space (small steps).
 
-![screenshot](images/WhatsApp12.jpg)
+<video src='images/WhatsApp7.mp4' width=400></>
+
 ![screenshot](images/WhatsApp11.jpg)
-![video](images/WhatsApp7.mp4)
 
 The teams wanted to take a team picture before the game = team pic feature!
 (it reminds me of vrchat volley that gives you pictures of you playing at the end of the game, and they are local, so each player gets pictures of themselves playing)
@@ -124,7 +124,7 @@ The slow pace and FreezeTag element worked in encouraging team play.
 ##### Afternoon
 I had to test quickly, but it was a lot of fun for the players again. They liked being restricted in speed, which they thought was fun. They liked the idea of the fish being alive and moving independently when it's not held or thrown. 
 
-![video](images/WhatsApp8.mp4)
+<video src='images/WhatsApp8.mp4' width=400></>
 
 Someone asked if, in the ocean setting, the frozen people would "drown" or, more like, drop to the bottom slowly because they're not swimming anymore. I thought it was interesting.
 That Idea made me think about how being frozen is a bit like being electrified/stunned so... The characters could look like Eels... A few ocean creatures have interesting defence mechanisms: Eels, jellyfish, the inflated fish guy, etc... I want to look into that for the design.
@@ -195,7 +195,7 @@ Here it is, anyone can enter it in VRChat but it doesn't work without VR.
 - there were some gray spheres that turn yellow if you activate them, the idea is that you can swim to each sphere to activate it, to test/practice swimming.
 - 4 people were able to join and test, they are all used to VR and play vrchat regularly.
 
-![video](images/vrchat-testing1.MP4)
+<video src='images/vrchat-testing1.MP4' width=400></>
 
 ![screenshot](images/Screenshot4.png)
 ![screenshot](images/Screenshot5.png)
@@ -205,7 +205,7 @@ Feedback
 - one issue I'll have to fix is that when people loose tracking they get "ejected" far away, since the code calculates the differance in hand position frame to frame. if the hand gets teleported it means that distance was big and it will apply a big movement force.
 - The same applies to the "respawn" action.
 
-![video](images/vrchat-testing2.MP4)
+<video src='images/vrchat-testing2.MP4' width=400></>
 
 ![screenshot](images/Screenshot6.png)
 
