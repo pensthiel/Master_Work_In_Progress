@@ -12,7 +12,7 @@ This journal documents my journey in choosing and exploring a project idea for m
 5. [2025-01-08](#2025-01-08) Poster / concept art
 6. [2025-01-09](#2025-01-09) Workplace set up
 7. [2025-01-13](#2025-01-13) VRChat for testing
-8. [](#) Link Title
+8. [2025-01-15](#2025-01-15) First VRChat test
 9. [](#) Link Title
 10. [](#) Link Title
 11. [](#) Link Title
@@ -179,5 +179,50 @@ The point of VRchat is that I can get my online friends to test it directly in-g
 <br>
 <br>
 
-###### 2025-01-
-## 
+###### 2025-01-15
+## First VRChat test
+
+![screenshot](images/screenshot3.png)
+
+
+I've uploaded a test world into VRChat with the swimming code I had been working on, I then invited my friends to test it with their VR on the vrchat platform. It worked quite well.
+
+Here it is, anyone can enter it in VRChat but it doesn't work without VR.
+[LINK](https://vrchat.com/home/world/wrld_9b2e67e2-929f-4852-b324-bcac24cf545a/info)
+
+- to swim you had to "push water" with you palms
+- I added a ball to test throwing it to friends
+- there were some gray spheres that turn yellow if you activate them, the idea is that you can swim to each sphere to activate it, to test/practice swimming.
+- 4 people were able to join and test, they are all used to VR and play vrchat regularly.
+
+![screenshot](images/screenshot4.png)
+![screenshot](images/screenshot5.png)
+
+Feedback
+- it works to swim with the traditional swimming movement but people were quickly drawn to a simpler move of waving their hands in the direction they want to swim.
+- one issue I'll have to fix is that when people loose tracking they get "ejected" far away, since the code calculates the differance in hand position frame to frame. if the hand gets teleported it means that distance was big and it will apply a big movement force.
+- The same applies to the "respawn" action.
+
+
+![screenshot](images/screenshot6.png)
+
+Overall the swimming was very fun to use, and it didn't cause too much sickness because of how the players stay upright and don't rotate upside down
+
+Some additional observations
+- we could not throw the ball very far, I will need to reduce the drag or up the force applied.
+- the networking was laggy for the ball because i was not updating the position each frame
+- when we reach to grab the ball, the palm faces the ball and so it makes us swim away from the ball
+
+![screenshot](images/screenshot7.png)
+![screenshot](images/screenshot8.png)
+
+To do for the next test:
+- fix the yeeting when teleporting/loosing tracking
+- Make it so we can activate/ disactivate a swimming mechanic. so that I could have several versions of the swimming in the test world and we can compare them.
+- code some other versions of swimming like one with rotation
+- Fix the ball, network, reaching, speed/drag
+- creat a "game area"
+- build and publish a "Fish-person" avatar and make it avaliable in the world
+- prototype a "goal" that shows point when the ball goes through
+
+[Back to navigation](#navigation)
