@@ -13,8 +13,8 @@ This journal documents my journey in choosing and exploring a project idea for m
 6. [2025-01-09](#2025-01-09) Workplace set up
 7. [2025-01-13](#2025-01-13) VRChat for testing
 8. [2025-01-15](#2025-01-15) First VRChat test
-9. [](#) Link Title
-10. [](#) Link Title
+9. [2025-02-01](#2025-02-01) VRchat volleyball inspiration
+10. [2025-02-04](#2025-02-04) //Alternative idea//
 11. [](#) Link Title
 12. [](#) Link Title
 13. [](#) Link Title
@@ -230,4 +230,37 @@ To do for the next test:
 
 [Back to navigation](#navigation)
 
+<br>
+<br>
 
+###### 2025-02-01
+## VRchat volleyball inspiration
+![VRC volleyball](images/screenshotvolley3.png)
+I've played this volleyball game in vrchat with my friends and it was super fun !
+![reddit](images/screenshotvolley1.png)
+![reddit](images/screenshotvolley.png)
+-> usually games in vrchat have a latency issue but the creator found solutions that worked really well. I will need to find similar tricks for my game to work on VRchat.
+![tweet from creator](images/screenshotvolley4.png)
+That's what the creator said when I asked her on twitter.
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-04
+## //Alternative idea//
+After the discussion with Douglas an other project idea came up and I'm just putting it here for reference.
+
+The idea would be to start from specific muscle training movements, and make VR mini-games around those moves, 1 game per 1 training exercise. also would be cool to do that with rehabilitation.
+An other way to gamify exercising...
+
+Anyway moving on !
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-
+## 
