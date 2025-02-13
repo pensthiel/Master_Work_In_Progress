@@ -262,5 +262,24 @@ Anyway moving on !
 <br>
 <br>
 
-###### 2025-02-
-## 
+###### 2025-02-13
+## VRChat Water study
+
+I looked around in VRChat worlds at how people have made swimming more immersive
+![video exploring water](https://www.youtube.com/watch?v=jfafK-0OhEc)
+Notes:
+- blur at distence
+- atmospheric color (whiter/bluer at distence) / blue tint
+- CAUSTICS ! (light textures)
+- light beams
+- water noises
+- muted/ echoey voices
+- whale noises and such in the background
+- lots of small fish swimming randlomly
+- tall weed
+- corail and sea plants
+- Jellyfish !
+- big rays
+- splach noises, when swiming or jumping in water
+- tiny bubbles when moving
+- bubbles coming up from the sand
