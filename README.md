@@ -15,7 +15,7 @@ This journal documents my journey in choosing and exploring a project idea for m
 8. [2025-01-15](#2025-01-15) First VRChat test
 9. [2025-02-01](#2025-02-01) VRchat volleyball inspiration
 10. [2025-02-04](#2025-02-04) //Alternative idea//
-11. [](#) Link Title
+11. [2025-02-13](#2025-02-13) VRChat Water study
 12. [](#) Link Title
 13. [](#) Link Title
 <br><br>
@@ -287,3 +287,12 @@ Notes:
 - splach noises, when swiming or jumping in water
 - tiny bubbles when moving
 - bubbles coming up from the sand
+
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-
+## 
