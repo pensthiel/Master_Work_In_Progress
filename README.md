@@ -287,6 +287,7 @@ Notes:
 - splach noises, when swiming or jumping in water
 - tiny bubbles when moving
 - bubbles coming up from the sand
+- slow movements, in the plants and particules
 
 
 [Back to navigation](#navigation)
@@ -294,5 +295,73 @@ Notes:
 <br>
 <br>
 
-###### 2025-02-
-## 
+###### 2025-02-20
+## Underwater study in lake Geneva
+
+[![video under the lake](images/Screenshot-underwater.png)](https://youtu.be/TDBmF0spFLU?si=jVobeVIH7IiuPnLj)
+
+I threw my phone in the lake while filming, here are my observations:
+
+### How the Underwater audio feels
+Underwater, sound is muted but not weak: strong in the low end but lacking sharpness. It feels engulfing, with no clear direction, as if the sound wraps around you. There’s a thickness to it, like it’s being pushed through a dense medium.
+
+### On Recreating Underwater Soundscapes
+
+#### Attenuation
+High frequencies fade as sound travels.
+#### Refraction
+Sound bends due to water temperature and pressure changes.
+#### Absorption
+High frequencies disappear faster than low ones.
+#### Impedance mismatch
+Water transmits sound differently than air, altering perception.
+#### Non-directionality
+Sound seems to come from everywhere.
+#### Low-pass filtering
+High frequencies are reduced, leaving deep, muffled tones.
+#### Reverberation
+Continuous, diffused echoes rather than distinct reflections.
+
+### Caustics
+it was really cool to see how the caustics look in the real world. you can see how the shape of the water surface bends the light into moving patterns, and the color spectrum.
+
+### Particles
+I was able to study how the particles move and show the movement of the water. We can't really see the water movement but i was suprised to see that there are always particles making the flow visible.
+![Particles](images/particles.png)
+
+### Reflections
+the surface had a reflection of the bottom like a mirror.
+
+### Light beams
+The side of the sun had those light beams, subtle but mery much there. it looks beautiful.
+
+### distance fade
+in all the scenes without exeptions you can only see what's relatively close, as things ger further they fade into the color of the water.
+
+### Colours
+$\color{#4AA1BB}{\text{■}}$ blue
+
+$\color{#1680A1}{\text{■}}$ bottom blue
+
+$\color{#5C95CB}{\text{■}}$ surface blue
+
+$\color{#8DBDDB}{\text{■}}$ another surface blue 
+
+$\color{#8DBDDB}{\text{■}}$ light beams
+
+$\color{#59B6BC}{\text{■}}$ murkier waters
+
+$\color{#81E5FF}{\text{■}}$ sky blue
+
+$\color{#2BC4D8}{\text{■}}$ water blue
+
+$\color{#125747}{\text{■}}$ algeas
+
+$\color{#627A3F}{\text{■}}$ $\color{#1E3823}{\text{■}}$ other algeas
+
+$\color{#589E8C}{\text{■}}$ greenish waters
+
+$\color{#59A879}{\text{■}}$ the ground/sand
+
+$\color{#54BEAF}{\text{■}}$ water above
+
