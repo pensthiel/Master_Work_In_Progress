@@ -269,7 +269,7 @@ I looked around in VRChat worlds at how people have made swimming more immersive
 
 Video link:
 
-[![video exploring water](https://i9.ytimg.com/vi/jfafK-0OhEc/mqdefault.jpg?sqp=CKipuL0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUCg9MA8=&rs=AOn4CLD9wxs5ScOLLhRElcvI1rGmJpDF-A)](https://www.youtube.com/watch?v=jfafK-0OhEc)
+[![video exploring water](images/vrc-water-thumbnail.png)](https://www.youtube.com/watch?v=jfafK-0OhEc)
 
 Notes:
 - blur at distence
