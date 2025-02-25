@@ -16,8 +16,17 @@ This journal documents my journey in choosing and exploring a project idea for m
 9. [2025-02-01](#2025-02-01) VRchat volleyball inspiration
 10. [2025-02-04](#2025-02-04) //Alternative idea//
 11. [2025-02-13](#2025-02-13) VRChat Water study
-12. [](#) Link Title
-13. [](#) Link Title
+12. [2025-02-20](#2025-02-20) Underwater filming in the lake
+13. [2025-02-25](#2025-02-25) Mid-Crit presentation
+14. [](#) Link Title
+15. [](#) Link Title
+16. [](#) Link Title
+17. [](#) Link Title
+18. [](#) Link Title
+19. [](#) Link Title
+20. [](#) Link Title
+   
+
 <br><br>
 ###### 2024-12-10
 ## First day ideas
@@ -99,9 +108,7 @@ We tested playing a physical version of FinBall with paper props.
 
 It worked well and was fun; the pace had to be slowed because of the small space (small steps).
 
-<video src='images/WhatsApp7.mp4' width=400></>
-
-![screenshot](images/WhatsApp11.jpg)
+![screenshot](images/ezgif-3b5de294671938.gif)
 
 The teams wanted to take a team picture before the game = team pic feature!
 (it reminds me of vrchat volley that gives you pictures of you playing at the end of the game, and they are local, so each player gets pictures of themselves playing)
@@ -119,12 +126,10 @@ The teams naturally and quickly started quick-passing to teammates and making st
 
 The slow pace and FreezeTag element worked in encouraging team play.
 
-![screenshot](images/WhatsApp15.jpg)
+![screenshot](images/ezgif-392354f3a3b4dd.gif)
 <br>
 ##### Afternoon
 I had to test quickly, but it was a lot of fun for the players again. They liked being restricted in speed, which they thought was fun. They liked the idea of the fish being alive and moving independently when it's not held or thrown. 
-
-<video src='images/WhatsApp8.mp4' width=400></>
 
 Someone asked if, in the ocean setting, the frozen people would "drown" or, more like, drop to the bottom slowly because they're not swimming anymore. I thought it was interesting.
 That Idea made me think about how being frozen is a bit like being electrified/stunned so... The characters could look like Eels... A few ocean creatures have interesting defence mechanisms: Eels, jellyfish, the inflated fish guy, etc... I want to look into that for the design.
@@ -195,19 +200,15 @@ Here it is, anyone can enter it in VRChat but it doesn't work without VR.
 - there were some gray spheres that turn yellow if you activate them, the idea is that you can swim to each sphere to activate it, to test/practice swimming.
 - 4 people were able to join and test, they are all used to VR and play vrchat regularly.
 
-<video src='images/vrchat-testing1.MP4' width=400></>
-
-![screenshot](images/Screenshot4.png)
 ![screenshot](images/Screenshot5.png)
+![screenshot](images/ezgif-27e347f66ecb55.gif)
 
 Feedback
 - it works to swim with the traditional swimming movement but people were quickly drawn to a simpler move of waving their hands in the direction they want to swim.
 - one issue I'll have to fix is that when people loose tracking they get "ejected" far away, since the code calculates the differance in hand position frame to frame. if the hand gets teleported it means that distance was big and it will apply a big movement force.
 - The same applies to the "respawn" action.
 
-<video src='images/vrchat-testing2.MP4' width=400></>
-
-![screenshot](images/Screenshot6.png)
+![screenshot](images/ezgif-7bba5d778f18d2.gif)
 
 Overall the swimming was very fun to use, and it didn't cause too much sickness because of how the players stay upright and don't rotate upside down
 
@@ -216,8 +217,7 @@ Some additional observations
 - the networking was laggy for the ball because i was not updating the position each frame
 - when we reach to grab the ball, the palm faces the ball and so it makes us swim away from the ball
 
-![screenshot](images/Screenshot7.png)
-![screenshot](images/Screenshot8.png)
+![screenshot](images/ezgif-2894f7d98458cd.gif)
 
 To do for the next test:
 - fix the yeeting when teleporting/loosing tracking
@@ -305,22 +305,21 @@ I threw my phone in the lake while filming, here are my observations:
 ### How the Underwater audio feels
 Underwater, sound is muted but not weak: strong in the low end but lacking sharpness. It feels engulfing, with no clear direction, as if the sound wraps around you. There’s a thickness to it, like it’s being pushed through a dense medium.
 
-### On Recreating Underwater Soundscapes
+### Recreating Underwater Soundscapes
 
-#### Attenuation
-High frequencies fade as sound travels.
-#### Refraction
-Sound bends due to water temperature and pressure changes.
-#### Absorption
-High frequencies disappear faster than low ones.
-#### Impedance mismatch
-Water transmits sound differently than air, altering perception.
-#### Non-directionality
-Sound seems to come from everywhere.
-#### Low-pass filtering
-High frequencies are reduced, leaving deep, muffled tones.
-#### Reverberation
-Continuous, diffused echoes rather than distinct reflections.
+**Attenuation** - High frequencies fade as sound travels.
+
+**Refraction** - Sound bends due to water temperature and pressure changes.
+
+**Absorption** - High frequencies disappear faster than low ones.
+
+**Impedance mismatch** - Water transmits sound differently than air, altering perception.
+
+**Non-directionality** - Sound seems to come from everywhere.
+
+**Low-pass filtering** - High frequencies are reduced, leaving deep, muffled tones.
+
+**Reverberation** - Continuous, diffused echoes rather than distinct reflections.
 
 ### Caustics
 it was really cool to see how the caustics look in the real world. you can see how the shape of the water surface bends the light into moving patterns, and the color spectrum.
@@ -338,30 +337,31 @@ The side of the sun had those light beams, subtle but mery much there. it looks 
 ### distance fade
 in all the scenes without exeptions you can only see what's relatively close, as things ger further they fade into the color of the water.
 
-### Colours
-$\color{#4AA1BB}{\text{■}}$ blue
+### Colour swab
+$\color{#4AA1BB}{\text{■}}$ blue $\color{#1680A1}{\text{■}}$ bottom blue $\color{#5C95CB}{\text{■}}$ surface blue $\color{#8DBDDB}{\text{■}}$ another surface blue $\color{#8DBDDB}{\text{■}}$ light beams $\color{#59B6BC}{\text{■}}$ murkier waters $\color{#81E5FF}{\text{■}}$ sky blue $\color{#2BC4D8}{\text{■}}$ water blue $\color{#125747}{\text{■}}$ algeas $\color{#627A3F}{\text{■}}$ $\color{#1E3823}{\text{■}}$ other algeas $\color{#589E8C}{\text{■}}$ greenish waters $\color{#59A879}{\text{■}}$ the ground/sand $\color{#54BEAF}{\text{■}}$ water above
 
-$\color{#1680A1}{\text{■}}$ bottom blue
+$\color{#4AA1BB}{\text{■}}$ $\color{#1680A1}{\text{■}}$ $\color{#5C95CB}{\text{■}}$ $\color{#8DBDDB}{\text{■}}$ $\color{#8DBDDB}{\text{■}}$ $\color{#59B6BC}{\text{■}}$ $\color{#81E5FF}{\text{■}}$ $\color{#2BC4D8}{\text{■}}$ $\color{#125747}{\text{■}}$ $\color{#627A3F}{\text{■}}$ $\color{#1E3823}{\text{■}}$ $\color{#589E8C}{\text{■}}$ $\color{#59A879}{\text{■}}$ $\color{#54BEAF}{\text{■}}$
 
-$\color{#5C95CB}{\text{■}}$ surface blue
 
-$\color{#8DBDDB}{\text{■}}$ another surface blue 
+[Back to navigation](#navigation)
 
-$\color{#8DBDDB}{\text{■}}$ light beams
+<br>
+<br>
 
-$\color{#59B6BC}{\text{■}}$ murkier waters
+###### 2025-02-25
+## Mid-Crit presentation
+*Wednesday 26.02 - 15h20*
 
-$\color{#81E5FF}{\text{■}}$ sky blue
+### Finball VR: An Underwater Team Sport for Virtual Reality
 
-$\color{#2BC4D8}{\text{■}}$ water blue
+"Finball VR" is a project focused on developing a new VR swimming locomotion system for a team-based underwater sport.
 
-$\color{#125747}{\text{■}}$ algeas
+The goal is to create an immersive and enjoyable experience where players can engage in social, competitive gameplay within a virtual aquatic environment. 
 
-$\color{#627A3F}{\text{■}}$ $\color{#1E3823}{\text{■}}$ other algeas
+By exploring innovative locomotion techniques and experimenting with DIY physical devices, the project aims to improve the immersion and movement of players. 
 
-$\color{#589E8C}{\text{■}}$ greenish waters
+Additionally, it will explore the potential of VRChat as a platform for social sports, despite its limitations, allowing for interactions and community. 
 
-$\color{#59A879}{\text{■}}$ the ground/sand
+The project addresses the challenge of creating a fluid, natural movement system for VR, particularly in team sports settings, as well as designing a new sport specifically with VR’s advantages and limitations in mind.
 
-$\color{#54BEAF}{\text{■}}$ water above
-
+[Back to navigation](#navigation)
