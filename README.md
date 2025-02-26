@@ -374,14 +374,20 @@ The project addresses the challenge of creating a fluid, natural movement system
 
 [![VR rig swimming](images/swim-vr-rig.png)](https://www.youtube.com/watch?v=i-OqdQGlMzs)
 I've had a lot of interest in VR rigs for a long time but none of them seemed that good.
-I don't pretend I could find a solution but in my case which is specific to swimming, It would be interesting to design some kind of physical instalation to make the swimming more immersive.
+I don't pretend I could find a solution, but in my case, which is specific to swimming, It would be interesting to design some kind of physical instalation to make the swimming more immersive.
 <img src="images/vrrig1.jpg"  style="width:55%; height:auto;">
 <img src="images/vrrig2.jpg"  style="width:40%; height:auto;">
-<img src="images/vrrig3.jpg"  style="width:45%; height:auto;">
-<img src="images/vrrig4.jpg"  style="width:45%; height:auto;">
 <img src="images/vrrig5.jpg"  style="width:45%; height:auto;">
+<img src="images/vrrig3.jpg"  style="width:45%; height:auto;">
 
+This guy's "weightless machine" would be my dream:
+<img src="images/vrrig4.jpg"  style="width:95%; height:auto;">
+
+[Link to video](https://www.youtube.com/watch?v=gSDtNkKPiDg)
+
+_______________________
 Here are images of physical devices that are used in medical applications such as rehabilitation.
+
 <img src="images/phisio1.png" style="width:50%; height:auto;">
 <img src="images/physio2.png"  style="width:40%; height:auto;">
 <img src="images/phisio3.png" style="width:40%; height:auto;">
@@ -389,7 +395,22 @@ Here are images of physical devices that are used in medical applications such a
 <img src="images/physio5.jpg"  style="width:50%; height:auto;">
 <img src="images/physio7.avif" style="width:40%; height:auto;">
 
-
 However, i felt uneasy Researching those because some of these people cannot walk or move in real life and im out here trying to move in VR with devices when I could simply do all those movements in real life without aid? Feels a little disrespectful.
 
 And a rig would not be compatible with mass adobtion/accesibility of my game, however it's still interesting to look into. The game should be designer to play without it but should be compatible with it if I get interesting results.
+
+With a rig I would want to add feet trackers but that would be a bother to gear up someone for an exhibition setting. Peharps some other tracking solution could work for this like AI body traking via video, if filming from underneath. it could be part of the device and seamless for users.
+
+A physical device however is also a lot of work and I doubt I could do both the device and the game....
+
+I should focus on the game first.
+
+If I manage to make the game fast and simple I could do the physical stuff :-)
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-
+## 
