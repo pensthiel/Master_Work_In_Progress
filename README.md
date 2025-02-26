@@ -365,3 +365,11 @@ Additionally, it will explore the potential of VRChat as a platform for social s
 The project addresses the challenge of creating a fluid, natural movement system for VR, particularly in team sports settings, as well as designing a new sport specifically with VR’s advantages and limitations in mind.
 
 [Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-
+## 
+
+[![VR rig swimming](images/swim-vr-rig.png)](https://www.youtube.com/watch?v=i-OqdQGlMzs)
