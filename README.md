@@ -375,6 +375,7 @@ The project addresses the challenge of creating a fluid, natural movement system
 [![VR rig swimming](images/swim-vr-rig.png)](https://www.youtube.com/watch?v=i-OqdQGlMzs)
 I've had a lot of interest in VR rigs for a long time but none of them seemed that good.
 I don't pretend I could find a solution, but in my case, which is specific to swimming, It would be interesting to design some kind of physical instalation to make the swimming more immersive.
+
 <img src="images/vrrig1.jpg"  style="width:55%; height:auto;">
 <img src="images/vrrig2.jpg"  style="width:40%; height:auto;">
 <img src="images/vrrig5.jpg"  style="width:45%; height:auto;">
