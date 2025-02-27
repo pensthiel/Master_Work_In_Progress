@@ -428,3 +428,8 @@ https://booth.pm/en/items/3666514
 
 fins:
 https://booth.pm/en/items/5429910
+
+VRC swimming:
+https://hirabiki.booth.pm/items/2127684
+![swimming-system](images/vrc-swimming.jpg)
+
