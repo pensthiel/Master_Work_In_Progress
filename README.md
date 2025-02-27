@@ -433,3 +433,6 @@ VRC swimming:
 https://hirabiki.booth.pm/items/2127684
 ![swimming-system](images/vrc-swimming.jpg)
 
+world to visit:
+https://vrchat.com/home/world/wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7/info
+(smash contest, a smashing game)
