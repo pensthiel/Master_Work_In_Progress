@@ -413,5 +413,18 @@ If I manage to make the game fast and simple I could do the physical stuff :-)
 <br>
 <br>
 
-###### 2025-02-
-## 
+###### 2025-02-27
+## Links for future references
+Fading at distance effect:
+I found this shader for a vrchat compatible performent fog
+https://github.com/frostbone25/Unity-Baked-Volumetrics
+
+Collection of all the useful links for VRChat dev:
+https://github.com/madjin/awesome-vrchat
+
+Caustics:
+https://booth.pm/en/items/3666514
+(1,200 JPY so about 7.21 Swiss Franc)
+
+fins:
+https://booth.pm/en/items/5429910
