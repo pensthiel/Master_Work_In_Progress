@@ -439,3 +439,25 @@ https://vrchat.com/home/world/wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7/info
 
 underwater effects:
 https://booth.pm/en/items/3263895
+
+
+<br>
+<br>
+
+###### 2025-03-03
+## VRC player rotation
+
+I was struggling to make a swimming mechanism in which you can rotate upside down, but then I found out that you simply canot rotate the player in VRC.
+however, there are ways as usual and what people seem to be doing is making the player "sit" on a rigidbody. and that rigidbody can rotate.
+
+I found that out on this guy's page about a 0 gravity system.
+
+https://tokiwa-carlo.booth.pm/items/5596315
+
+Translation: 
+
+■ Mechanism:
+Essentially, it’s just allowing you to sit on a Rigidbody that doesn’t experience gravity or air resistance.
+In addition, it follows the colliders of your hands and feet so you can interact with walls and other objects.
+
+His way of interacting with wall is interesting too. when swimming you should be able to push yourself on objects too
