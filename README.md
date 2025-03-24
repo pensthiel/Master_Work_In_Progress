@@ -19,9 +19,9 @@ This journal documents my journey in choosing and exploring a project idea for m
 12. [2025-02-20](#2025-02-20) Underwater filming in the lake
 13. [2025-02-25](#2025-02-25) Mid-Crit presentation
 14. [2025-02-26](#2025-02-26) VR physical rigs and other physical devices
-1.  [](#) Link Title
-2.  [](#) Link Title
-3.  [](#) Link Title
+1.  [2025-02-27](#2025-02-27) Links for future references
+2.  [2025-03-03](#2025-03-03) VRC player rotation
+3.  [2025-03-22](#2025-03-22) VRC Finball - playtest 0.1
 4.  [](#) Link Title
 5.  [](#) Link Title
 6.  [](#) Link Title
@@ -271,6 +271,8 @@ Video link:
 
 [![video exploring water](images/vrc-water-thumbnail.png)](https://www.youtube.com/watch?v=jfafK-0OhEc)
 
+*Click the image to view the video*
+
 Notes:
 - blur at distence
 - atmospheric color (whiter/bluer at distence) / blue tint
@@ -299,6 +301,7 @@ Notes:
 ## Underwater study in lake Geneva
 
 [![video under the lake](images/Screenshot-underwater.png)](https://youtu.be/TDBmF0spFLU?si=jVobeVIH7IiuPnLj)
+*Click the image to view the video*
 
 I threw my phone in the lake while filming, here are my observations:
 
@@ -461,3 +464,58 @@ Essentially, it’s just allowing you to sit on a Rigidbody that doesn’t exper
 In addition, it follows the colliders of your hands and feet so you can interact with walls and other objects.
 
 His way of interacting with wall is interesting too. when swimming you should be able to push yourself on objects too
+
+
+<br>
+<br>
+
+###### 2025-03-22
+## VRC Finball - playtest 0.1
+
+[![Video link - Playtest 01](https://i9.ytimg.com/vi_webp/E94XqUob1ZE/mq3.webp?sqp=CIS_hb8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCsgUyhyMA8=&rs=AOn4CLAyaCvgupzjvf9D4bYu-3QfTaILiQ)](https://youtu.be/E94XqUob1ZE)
+
+*Click the image to view the video*
+
+### Observations
+First reactions to swimming:<br> 
+"wooow" <br> 
+"I hate that" <br> 
+"weeeeee"
+
+After a bit: <br> 
+"ooOOoooh I get it now" <br> 
+"I smashed my microphone again" <br> 
+"I'll need to stand up for this"
+
+- since I desactivated swimming for the limb near the ball, you can only use 1 hand for swiming when you are holding the ball. I don't mind it however because the player should pass
+- It is indeed very difictult to aim so I should add some kind of aim assist
+- someone said it's awkward when they want to move their arms but dont want to move, then someone else said there could be a toggle but then it would kind of ruin it.
+- I quickly forgot which goal was mine and which one i needed to aim to.
+- The player with a bigger avatar was swimming much faster because of arm lengh 
+- Players were quickly exhausted, I need to better encourage passing or make the arena smaller. Aim assist should make passing easier. 
+- If I teleport players to a position they will start the game well placed and it might encourage positioning.(otherwise, all players go to the ball in a cluster)
+- A friend mentioned "echo VR" when I explained the game, then he mentioned "Quiddich" because of the "ball moving on its own" idea.
+
+  
+
+### To do next
+1. create a opt-in system to make the teams
+2. Non-VR version of swimming
+3. players need a visual cue to differentiate the teams
+4. visual cue of which goal is who's
+5. I'll need to make sure that all players can reach the same speed with effort, regardless of avatar size
+6. teleport players to start position
+7. start countdown or visual cue
+8. holding the ball lets you score continually without the ball respawning- needs fixing
+9. the goal's visual cue was not global, needs fixing
+10. Aim Assist!
+11. Start adding sound! a way for players to add music while waiting for soundscape because having no sound feels weird
+12. sound cues for goals and countdowns
+13. Adding obsticles and basic external forces for testing, currents, algea...
+14. implementing "freeze tag". pehaps different versions
+
+<br>
+<br>
+
+###### 2025-03-24
+## 
