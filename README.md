@@ -469,7 +469,7 @@ His way of interacting with wall is interesting too. when swimming you should be
 <br>
 <br>
 
-###### 2025-03-22
+###### 2025-03-24
 ## VRC Finball - playtest 0.1
 
 [![Video link - Playtest 01](https://i9.ytimg.com/vi_webp/E94XqUob1ZE/mq3.webp?sqp=CIS_hb8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCsgUyhyMA8=&rs=AOn4CLAyaCvgupzjvf9D4bYu-3QfTaILiQ)](https://youtu.be/E94XqUob1ZE)
@@ -517,5 +517,14 @@ After a bit: <br>
 <br>
 <br>
 
-###### 2025-03-24
-## 
+###### 2025-03-25
+## On Echo Arena
+
+There's a community reviving the game, and through tiktok videos they ended up getting more users in the discord comunity than what the original discord had. 
+
+This VR Sport is special and it continues to grow in popularity even post-Shutdown.
+
+![alt text](images/image-1.png)
+
+![alt text](images/image3.png)
+Right Now they have 38'988 members and it's growing everyday.
