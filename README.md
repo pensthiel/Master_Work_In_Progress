@@ -19,12 +19,13 @@ This journal documents my journey in choosing and exploring a project idea for m
 12. [2025-02-20](#2025-02-20) Underwater filming in the lake
 13. [2025-02-25](#2025-02-25) Mid-Crit presentation
 14. [2025-02-26](#2025-02-26) VR physical rigs and other physical devices
-1.  [2025-02-27](#2025-02-27) Links for future references
-2.  [2025-03-03](#2025-03-03) VRC player rotation
-3.  [2025-03-22](#2025-03-22) VRC Finball - playtest 0.1
-4.  [](#) Link Title
-5.  [](#) Link Title
-6.  [](#) Link Title
+15. [2025-02-27](#2025-02-27) Links for future references
+16. [2025-02-28](#2025-02-28) More refs from tutor
+17. [2025-03-03](#2025-03-03) VRC player rotation
+18. [2025-03-22](#2025-03-22) VRC Finball - playtest 0.1
+19. [2025-03-25](#2025-03-25) On Echo Arena
+20. [](#) Link Title
+21. [](#) Link Title
    
 
 <br><br>
@@ -443,6 +444,25 @@ https://vrchat.com/home/world/wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7/info
 underwater effects:
 https://booth.pm/en/items/3263895
 
+<<<<<<< Updated upstream
+
+<br>
+<br>
+
+###### 2025-02-28
+## More refs from tutor
+
+All about shaders !!!!
+
+https://thebookofshaders.com/11/
+
+Decals in URP
+
+https://docs.unity3d.com/Manual/urp/renderer-feature-decal.html
+
+"optical flow"
+
+[google imgs](https://www.google.com/search?sca_esv=3d212cfe0cf3ba87&sxsrf=AHTn8zqLA5y_04by_vb9mUU7jfXmeUWjvg:1740749770727&q=optical+flow&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBr1qLlHFB6ZBcx-Arq68_wfw0s-Sy4efUF8x4O2idyUNAprOOrIICDwexO1MWoIv7y7QMR7c9fXxemwV4Ccx7a8BdNJVxmdVJER700ZPKc1-FYb8sDDNVZHd4jXU9MyXJ2pyB9VwEjlLiihT6V8D0LRV92eC&sa=X&sqi=2&ved=2ahUKEwj5geidvuaLAxUfhf0HHfQ6KuUQtKgLegQIERAB&biw=1470&bih=798&dpr=2)
 
 <br>
 <br>
@@ -528,3 +548,34 @@ This VR Sport is special and it continues to grow in popularity even post-Shutdo
 
 ![alt text](images/image3.png)
 Right Now they have 38'988 members and it's growing everyday.
+
+I did manage to join an echo game through their system and I tried to talk to people in the echo discord and in-game but it was not succesfull... No one was in a talking mood, I might try again an other time.
+
+### New VR Sports to try
+I looked for new games and I found a few VR sports that I haven't tried yet
+1. Home Sports (AR sport games)
+2. Yeeps: Hide and Seek (Looks to have a horrible community of kids bullying others)
+3. CleanSheet Football (goal keeper)
+4. Spinball: 360 Tennis (AR game)
+5. STARWAVE 
+6. Clawball (quite close to my project....)
+
+### Why VRChat
+These games look great and really fun to play with friends. But most of them cost money and for me to play with my friends i would need: 
+- for my friends to be interested in the same game
+- for them to have a meta headset (most games are not cross-platform)
+- for everyone to have the budjet to buy the game
+- for them to be willing to buy it
+- for us to play at the same time ?
+- limited space on device for all the games
+
+While VRChat:
+- free
+- easy cross-platform
+- even has a non-vr version which will be mobile compatible soon.
+- multiplayer by default
+- everyone's already on the platform and we can invite friends ingame
+- no need to buy or download 300 games
+
+### The quest kids problem
+since the launch of the meta quest 2, which was affordable and got gifter to a lot of kids for christmas, A loooot of comunities got ruined because a lot of kids play and throw insults everywhere (which is also very dangerous for people this age who should not talk to adults online). One way to solve this is to have an option for  18+ instences, as well as an option for private instenses where you invite your friends. VRChat has those options built in thankfully. and you can publish world without quest(android) support which already filters out a lot of children but it also means that only people who have a gaming pc can play.
