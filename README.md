@@ -24,8 +24,12 @@ This journal documents my journey in choosing and exploring a project idea for m
 17. [2025-03-03](#2025-03-03) VRC player rotation
 18. [2025-03-22](#2025-03-22) VRC Finball - playtest 0.1
 19. [2025-03-25](#2025-03-25) On Echo Arena
-20. [](#) Link Title
-21. [](#) Link Title
+20. [2025-04-03](#2025-04-03) Technical difficulties
+21. [2025-04-04](#2025-04-04) How to Log
+22. [2025-04-09](#2025-04-09) Planning / Making lists
+23. [](#) Link Title
+24. [](#) Link Title
+25. [](#) Link Title
    
 
 <br><br>
@@ -579,3 +583,68 @@ While VRChat:
 
 ### The quest kids problem
 since the launch of the meta quest 2, which was affordable and got gifter to a lot of kids for christmas, A loooot of comunities got ruined because a lot of kids play and throw insults everywhere (which is also very dangerous for people this age who should not talk to adults online). One way to solve this is to have an option for  18+ instences, as well as an option for private instenses where you invite your friends. VRChat has those options built in thankfully. and you can publish world without quest(android) support which already filters out a lot of children but it also means that only people who have a gaming pc can play.
+
+<br>
+<br>
+
+###### 2025-04-03
+## Technical difficulties
+
+Spent a while trying to rotate that VRC station componant but eventually I got it. I felt like a wast of time but actually it was nessecary to go through this to understand better the VRChat api and specifically the VRC station. I knew i would have to get involved with the technical part / maths and general logic at some point, but I enjoy it so it's been rather fun.
+
+<br>
+<br>
+
+###### 2025-04-04
+## How to Log
+One thing that was slowing me down is that i could not see any console or log when testing in VR, because it opens VRChat and it doesnt log in the unity console.
+Now there are ways to display logs in VRChat but it looks weird and it did not have the informations I needed.
+
+I ended up displaying custom log messages In a Log board display that I put in the scene, So that I can Read all my troubleshooting messages direcly within VR when testing.
+
+![Log board](images/log.png)
+
+<br>
+<br>
+
+###### 2025-04-09
+## Planning / Making lists
+
+I need a list of all the things I want to do.
+
+**Game setup**
+- Mechanic for opting in (to play)
+- mechanic for team making
+- color coding teams, visual clue of which team the player is on
+
+**Gameplay**
+- aiming aid (target clue, player target selection, "concentration" effect?, aim line ?)
+- freeze tag player effects on player
+- unfreeze or timer ?
+- Ball autonomous mouvements (fish ball)
+
+**Feedback**
+- sound feedback when swimimng for better movement understanding
+- particule effect as movement clue
+- Visual/sound feedback on buttons
+- visual/sound feedback when scoring (environmental change?)
+
+**General audio**
+- spacial sound effects on voices
+- general soundscape
+
+**Environment**
+- cave/rocks as aera limitation / game field
+- immersion-scape: particules, colors and distance fade
+- enviromental effects on player (currents)
+- static enviromental obstacles (algea, rocks)
+- moving enviromental obstacles (big fish/ray/turtle)
+
+I think I should have done all this in about one month, with only fine-tuning and presentation prep left.
+
+**Without counting holidays, that makes it mid-may, 16-19 of may.**
+
+This list shows a good order of importance: game setup and gameplay are indispensable, feedback and audio are very important, and the environment must be wrapped up at the end.
+
+During production, regular and thorough testing is required. Testing will happen alongside production with documentation.
+
