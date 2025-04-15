@@ -27,9 +27,13 @@ This journal documents my journey in choosing and exploring a project idea for m
 20. [2025-04-03](#2025-04-03) Technical difficulties
 21. [2025-04-04](#2025-04-04) How to Log
 22. [2025-04-09](#2025-04-09) Planning / Making lists
-23. [](#) Link Title
+23. [2025-04-15](#2025-04-15) Cave Environement
 24. [](#) Link Title
 25. [](#) Link Title
+26. [](#) Link Title
+27. [](#) Link Title
+28. [](#) Link Title
+29. [](#) Link Title
    
 
 <br><br>
@@ -450,6 +454,7 @@ https://booth.pm/en/items/3263895
 
 <<<<<<< Updated upstream
 
+[Back to navigation](#navigation)
 <br>
 <br>
 
@@ -468,6 +473,7 @@ https://docs.unity3d.com/Manual/urp/renderer-feature-decal.html
 
 [google imgs](https://www.google.com/search?sca_esv=3d212cfe0cf3ba87&sxsrf=AHTn8zqLA5y_04by_vb9mUU7jfXmeUWjvg:1740749770727&q=optical+flow&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBr1qLlHFB6ZBcx-Arq68_wfw0s-Sy4efUF8x4O2idyUNAprOOrIICDwexO1MWoIv7y7QMR7c9fXxemwV4Ccx7a8BdNJVxmdVJER700ZPKc1-FYb8sDDNVZHd4jXU9MyXJ2pyB9VwEjlLiihT6V8D0LRV92eC&sa=X&sqi=2&ved=2ahUKEwj5geidvuaLAxUfhf0HHfQ6KuUQtKgLegQIERAB&biw=1470&bih=798&dpr=2)
 
+[Back to navigation](#navigation)
 <br>
 <br>
 
@@ -490,6 +496,7 @@ In addition, it follows the colliders of your hands and feet so you can interact
 His way of interacting with wall is interesting too. when swimming you should be able to push yourself on objects too
 
 
+[Back to navigation](#navigation)
 <br>
 <br>
 
@@ -538,6 +545,8 @@ After a bit: <br>
 13. Adding obsticles and basic external forces for testing, currents, algea...
 14. implementing "freeze tag". pehaps different versions
 
+
+[Back to navigation](#navigation)
 <br>
 <br>
 
@@ -584,6 +593,8 @@ While VRChat:
 ### The quest kids problem
 since the launch of the meta quest 2, which was affordable and got gifter to a lot of kids for christmas, A loooot of comunities got ruined because a lot of kids play and throw insults everywhere (which is also very dangerous for people this age who should not talk to adults online). One way to solve this is to have an option for  18+ instences, as well as an option for private instenses where you invite your friends. VRChat has those options built in thankfully. and you can publish world without quest(android) support which already filters out a lot of children but it also means that only people who have a gaming pc can play.
 
+
+[Back to navigation](#navigation)
 <br>
 <br>
 
@@ -592,6 +603,8 @@ since the launch of the meta quest 2, which was affordable and got gifter to a l
 
 Spent a while trying to rotate that VRC station componant but eventually I got it. I felt like a wast of time but actually it was nessecary to go through this to understand better the VRChat api and specifically the VRC station. I knew i would have to get involved with the technical part / maths and general logic at some point, but I enjoy it so it's been rather fun.
 
+
+[Back to navigation](#navigation)
 <br>
 <br>
 
@@ -604,6 +617,8 @@ I ended up displaying custom log messages In a Log board display that I put in t
 
 ![Log board](images/log.png)
 
+
+[Back to navigation](#navigation)
 <br>
 <br>
 
@@ -648,3 +663,33 @@ This list shows a good order of importance: game setup and gameplay are indispen
 
 During production, regular and thorough testing is required. Testing will happen alongside production with documentation.
 
+
+[Back to navigation](#navigation)
+<br>
+<br>
+
+###### 2025-04-15
+## Cave Environement
+
+I need to somehow limit the game area and I need the environment to fit the underwater aesthetic while being itself a game element influancing where the ball bounces.
+
+I've decide to make an underwater cave, round for the gameplay and with uneven surfaces for when the ball bounces on it.
+
+it needs some light so there's an opening at the top, with the sun shining through ( underwater) that way i can add lightrays later
+
+I was able to make a shape im satified with but it's not textured properly yet.
+
+![cave](images/VRChat_2025-04-15_22-10-58.404_1920x1080.png)
+
+![cave2](images/VRChat_2025-04-15_22-11-42.812_1920x1080.png) (this is the avatar that i use in vrchat while testing, just because it's cute)
+
+There's a starter area on the side with access to the game area, it's that rectangle in the wall.
+
+I've changed a bit the colors and such to start making the environment match my research findings
+
+[Back to navigation](#navigation)
+<br>
+<br>
+
+###### 2025-04-
+##
