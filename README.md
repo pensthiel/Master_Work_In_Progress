@@ -691,5 +691,43 @@ I've changed a bit the colors and such to start making the environment match my 
 <br>
 <br>
 
+###### 2025-04-16
+## Mid-crit feedback
+
+Alexia: **no caves**
+
+She pointed out that she wanted the feeling of being in the ocean and the rocky cave is very restrictive and isolating, like being stuck in a room. It made her sad.
+
+I agreed when she said it and then i realised that the cave would also make it impossible for big fishes or turtles to fly by as obsticles.
+
+So I was thinking, but how can I limit the game area then ? to keep the ball from going too far.
+
+With the disscution during midcrit it's been pointed out that it doesnt have to be part of the natural environment, It could be lines or cartoony ui, partly transparent at least, a net, maybe it only appears when things get close. 
+
+**It should be very subtle so that it doesn't impact the feel of the open sea.**
+
+### Advices:
+- DO NOT LOOSE THE QUIRKINESS
+- don't get caught up in the stress of producing sacrifying the unique style and properties of this project.
+- careful not get lost in technical details
+
+This discussion was very useful and I realised that I need to focus quickly on the visuals and immersive environment, as douglas had pointed out as well. 
+
+I want to creat assets (algea vines, rocks, corals, crabs, aquatic plants) by modeling them by hand in VR with adobe modeler, so that it'll have my unique style --> hand-made (its also easier for me to model in VR).
+
+
+[Back to navigation](#navigation)
+<br>
+<br>
+
 ###### 2025-04-
-##
+## New list of priority?
+
+1. Base environment
+2. movement feedback (bubbles,water noises)
+3. feedback on game elements (sound,visual,haptic)
+4. team opt-in mechanic 
+5. Aiming aid
+6. fog and lighting
+7. soundscape
+8. 
