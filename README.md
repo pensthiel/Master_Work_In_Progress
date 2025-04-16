@@ -28,7 +28,7 @@ This journal documents my journey in choosing and exploring a project idea for m
 21. [2025-04-04](#2025-04-04) How to Log
 22. [2025-04-09](#2025-04-09) Planning / Making lists
 23. [2025-04-15](#2025-04-15) Cave Environement
-24. [](#) Link Title
+24. [2025-04-16](#2025-04-16) Mid-crit feedback
 25. [](#) Link Title
 26. [](#) Link Title
 27. [](#) Link Title
