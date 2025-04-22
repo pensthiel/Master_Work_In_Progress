@@ -543,4 +543,17 @@ If I do end up doing character design I'd like to remeber this and draw inspirat
 <br>
 
 ###### 2025-04-
-## 
+## Opt-in and team making mechanic
+
+We could have 2 square areas where people go and stand.
+
+In most game you join a waiting line and get added when it's ready but i don't think it's the best solution here. 
+
+I do like how the vrchat volleyball world did it.
+
+Examples to check: 
+- VRchat volleyball, player clicks on a position and gets assigned to it, you can also choose the size of the teams-> 2v2, 5v5 ect
+- "murder 3" game each player stands in one of the circles
+- pool, first 2 players to click join
+
+If we cannot join mid-game then the games should be short.
