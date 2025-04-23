@@ -29,11 +29,18 @@ This journal documents my journey in choosing and exploring a project idea for m
 22. [2025-04-09](#2025-04-09) Planning / Making lists
 23. [2025-04-15](#2025-04-15) Cave Environement
 24. [2025-04-16](#2025-04-16) Mid-crit feedback
-25. [](#) Link Title
-26. [](#) Link Title
-27. [](#) Link Title
-28. [](#) Link Title
-29. [](#) Link Title
+25. [2025-04-17](#2025-04-17) Environment moodboard
+26. [2025-04-18](#2025-04-18) New list of priorities
+27. [2025-04-19](#2025-04-19) Environmental modeling workflow
+28. [2025-04-21](#2025-04-21) On optimisation
+29. [2025-04-22](#2025-04-22) Opt-in and team making mechanic
+30. [](#) Link Title
+31. [](#) Link Title
+32. [](#) Link Title
+33. [](#) Link Title
+34. [](#) Link Title
+35. [](#) Link Title
+36. [](#) Link Title
    
 <br><br>
 ###### 2024-12-10
@@ -426,10 +433,6 @@ I’ve adjusted the colors and other elements to start making the environment ma
 <br>
 <br>
 
-[Back to navigation](#navigation)
-<br>
-<br>
-
 ###### 2025-04-16
 ## Mid-crit feedback
 
@@ -458,7 +461,80 @@ I want to create assets (algae vines, rocks, corals, crabs, aquatic plants) by m
 <br>
 <br>
 
+
 ###### 2025-04-17
+## Environment moodboard
+
+Lakes
+
+<img src="images\lakebottoms.jpg" style="width:20%; height:auto;">
+<img src="images\lakebottoms1.jpg" style="width:20%; height:auto;">
+<img src="images\lakebottoms4.jpg" style="width:20%; height:auto;">
+<img src="images\lakebottoms5.jpg" style="width:20%; height:auto;">
+<img src="images\lakebottoms6.jpg" style="width:20%; height:auto;">
+<img src="images\lakebottoms7.jpg" style="width:20%; height:auto;">
+<img src="images\lakebottoms8.jpg" style="width:20%; height:auto;">
+<img src="images\lakebottoms9.webp" style="width:20%; height:auto;">
+<img src="images\lakebottoms10.webp" style="width:20%; height:auto;">
+
+<br>
+
+Sea/Ocean
+
+<img src="images\oceanfloor1.jpg" style="width:20%; height:auto;">
+<img src="images\oceanfloor2.jpg" style="width:20%; height:auto;">
+<img src="images\oceanfloor3.jpg" style="width:20%; height:auto;">
+<img src="images\oceanfloor4.jpg" style="width:20%; height:auto;">
+<img src="images\oceanfloor5.jpg" style="width:20%; height:auto;">
+<img src="images\oceanfloor6.webp" style="width:20%; height:auto;">
+<img src="images\oceanfloor7.webp" style="width:20%; height:auto;">
+<img src="images\oceanfloor8.jpg" style="width:20%; height:auto;">
+<img src="images\oceanfloor9.jpg" style="width:20%; height:auto;">
+<img src="images\oceanfloor10.webp" style="width:20%; height:auto;">
+<img src="images\oceanfloor11.jpg" style="width:20%; height:auto;">
+<img src="images\oceanfloor12.jpg" style="width:20%; height:auto;">
+
+<br>
+Frames from my video of lake:
+
+<img src="images/gva-lake.png" style="width:20%; height:auto;">
+<img src="images/gva-lake2.png" style="width:20%; height:auto;">
+<img src="images/gva-lake3.png" style="width:20%; height:auto;">
+<img src="images/gva-lake4.png" style="width:20%; height:auto;">
+<img src="images/gva-lake5.png" style="width:20%; height:auto;">
+<img src="images/gva-lake6.png" style="width:20%; height:auto;">
+<img src="images/gva-lake7.png" style="width:20%; height:auto;">
+<img src="images/gva-lake8.png" style="width:20%; height:auto;">
+<img src="images/gva-lake9.png" style="width:20%; height:auto;">
+<img src="images/gva-lake10.png" style="width:20%; height:auto;">
+<img src="images/gva-lake11.png" style="width:20%; height:auto;">
+<img src="images/gva-lake12.png" style="width:20%; height:auto;">
+<img src="images/gva-lake13.png" style="width:20%; height:auto;">
+<img src="images/gva-lake14.png" style="width:20%; height:auto;">
+<img src="images/gva-lake15.png" style="width:20%; height:auto;">
+<img src="images/gva-lake16.png" style="width:20%; height:auto;">
+<img src="images/gva-lake17.png" style="width:20%; height:auto;">
+<img src="images/gva-lake18.png" style="width:20%; height:auto;">
+<img src="images/gva-lake19.png" style="width:20%; height:auto;">
+<img src="images/gva-lake20.png" style="width:20%; height:auto;">
+<img src="images/gva-lake21.png" style="width:20%; height:auto;">
+<img src="images/gva-lake22.png" style="width:20%; height:auto;">
+<img src="images/gva-lake23.png" style="width:20%; height:auto;">
+
+
+For the sake of having my own aesthetic and uniqueness I thought It's better to draw from my own findings in the lake... however, the lake doesnt have turtles or whales which i might want to include so would it really make sense?
+
+But the plants dont need to be realistic, and in fact I can take inspiration from all water biome to create my own fictional biome.
+
+Especially because my hand-made assets will look weird and will not match reality. the sport itself is fictional. 
+
+It needs to specifically not look like an existing biome
+
+[Back to navigation](#navigation)
+<br>
+<br>
+
+###### 2025-04-18
 ## New list of priorities?
 
 MS = motion sickness
@@ -495,7 +571,7 @@ MS = motion sickness
 <br>
 <br>
 
-###### 2025-04-22
+###### 2025-04-19
 ## Environmental modeling workflow
 
 I think I need a few reference images, specifically some screenshots from the lake video I took.
@@ -521,7 +597,8 @@ I researched retopology solutions, and for my case, I'd like to try the 3D Coat 
 <img src="images/seaweed4.png">
 <img src="images/ocean-giants.png">
 
-### Optimisation
+###### 2025-04-21
+## Optimisation
 
 <img src="images/gpt-quest-optimisation.png">
 
@@ -542,7 +619,7 @@ If I do end up doing character design I'd like to remeber this and draw inspirat
 <br>
 <br>
 
-###### 2025-04-
+###### 2025-04-22
 ## Opt-in and team making mechanic
 
 We could have 2 square areas where people go and stand.
