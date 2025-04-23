@@ -642,3 +642,16 @@ Examples to check:
 - pool, first 2 players to click join
 
 If we cannot join mid-game then the games should be short.
+
+[Back to navigation](#navigation)
+<br>
+<br>
+
+###### 2025-04-23
+## seaweed modelling test
+
+<img src="images\3d-seaweed-test.png">
+
+[Back to navigation](#navigation)
+<br>
+<br>
