@@ -585,12 +585,12 @@ Alternatively, I might use some tricks to make complex models lighter, such as u
 <img src="images/minecraft-kelp.png"  style="width:49%; height:auto;">
 </p>
 
+### Moodboard
+
 <p float="left">
 <img src="images/AI-bottom-sea.png" style="width:49%;">
 <img src="images/inspi.png" style="width:49%;">
 </p>
-
-### Moodboard
 
 <p float="left">
 <img src="images/types-of-coral.png">
@@ -606,6 +606,8 @@ Alternatively, I might use some tricks to make complex models lighter, such as u
 ## Optimisation
 
 I researched retopology solutions, and for my case, I'd like to try the 3D Coat software for auto-retopology.
+
+
 <img src="images/gpt-quest-optimisation.png">
 
 Auto-LOD:
