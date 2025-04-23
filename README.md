@@ -466,7 +466,7 @@ I want to create assets (algae vines, rocks, corals, crabs, aquatic plants) by m
 ## Environment moodboard
 
 Lakes
-
+<p float="left">
 <img src="images\lakebottoms.jpg" style="width:20%; height:auto;">
 <img src="images\lakebottoms1.jpg" style="width:20%; height:auto;">
 <img src="images\lakebottoms4.jpg" style="width:20%; height:auto;">
@@ -476,11 +476,11 @@ Lakes
 <img src="images\lakebottoms8.jpg" style="width:20%; height:auto;">
 <img src="images\lakebottoms9.webp" style="width:20%; height:auto;">
 <img src="images\lakebottoms10.webp" style="width:20%; height:auto;">
-
+</p>
 <br>
 
 Sea/Ocean
-
+<p float="left">
 <img src="images\oceanfloor1.jpg" style="width:20%; height:auto;">
 <img src="images\oceanfloor2.jpg" style="width:20%; height:auto;">
 <img src="images\oceanfloor3.jpg" style="width:20%; height:auto;">
@@ -493,10 +493,10 @@ Sea/Ocean
 <img src="images\oceanfloor10.webp" style="width:20%; height:auto;">
 <img src="images\oceanfloor11.jpg" style="width:20%; height:auto;">
 <img src="images\oceanfloor12.jpg" style="width:20%; height:auto;">
-
+</p>
 <br>
 Frames from my video of lake:
-
+<p float="left">
 <img src="images/gva-lake.png" style="width:20%; height:auto;">
 <img src="images/gva-lake2.png" style="width:20%; height:auto;">
 <img src="images/gva-lake3.png" style="width:20%; height:auto;">
@@ -520,7 +520,7 @@ Frames from my video of lake:
 <img src="images/gva-lake21.png" style="width:20%; height:auto;">
 <img src="images/gva-lake22.png" style="width:20%; height:auto;">
 <img src="images/gva-lake23.png" style="width:20%; height:auto;">
-
+</p>
 
 For the sake of having my own aesthetic and uniqueness I thought It's better to draw from my own findings in the lake... however, the lake doesnt have turtles or whales which i might want to include so would it really make sense?
 
@@ -580,15 +580,19 @@ I want my assets to be unique and performant, so I plan to create hand-made orga
 
 Alternatively, I might use some tricks to make complex models lighter, such as using intertwined 2D planes. I'm considering this approach for long kelp, similar to what is seen in Minecraft.
 
+<p float="left">
 <img src="images/papertree.png"  style="width:49%; height:auto;">
 <img src="images/minecraft-kelp.png"  style="width:49%; height:auto;">
+</p>
 
-I researched retopology solutions, and for my case, I'd like to try the 3D Coat software for auto-retopology.
-
+<p float="left">
 <img src="images/AI-bottom-sea.png" style="width:49%;">
 <img src="images/inspi.png" style="width:49%;">
+</p>
 
 ### Moodboard
+
+<p float="left">
 <img src="images/types-of-coral.png">
 <img src="images/seaweedtypes.png" style="width:49%;">
 <img src="images/seaweed.png" style="width:49%;">
@@ -596,10 +600,12 @@ I researched retopology solutions, and for my case, I'd like to try the 3D Coat 
 <img src="images/seaweed3.png" style="width:49%;">
 <img src="images/seaweed4.png">
 <img src="images/ocean-giants.png">
+</p>
 
 ###### 2025-04-21
 ## Optimisation
 
+I researched retopology solutions, and for my case, I'd like to try the 3D Coat software for auto-retopology.
 <img src="images/gpt-quest-optimisation.png">
 
 Auto-LOD:
