@@ -613,6 +613,10 @@ I researched retopology solutions, and for my case, I'd like to try the 3D Coat 
 Auto-LOD:
 https://www.youtube.com/watch?v=EqVig88ZC_M
 
+I found this VRChat world that is detailed and quest compatible. The grass and flowers are pngs that rotate to always face the player which works quite well.
+
+<img src="images/2d-flowers.png">
+
 
 ### Notes out of topic
 
