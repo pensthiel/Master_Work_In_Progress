@@ -658,7 +658,7 @@ If mid-game joining is not allowed, then rounds should be kept short.
 <br><br>
 
 ###### 2025-04-24  
-## More Modelling
+## Tools
 
 It turns out I need to use both Quill VR and Adobe Substance Modeler because they serve different purposes.
 
@@ -671,8 +671,8 @@ Although Quill has not been updated since 2021 and lacks alternatives, it has pr
 [Back to navigation](#navigation)
 <br><br>
 
-###### 2025-04-24  
-## More Modelling
+###### 2025-04-28  
+## Modeling results and retopo
 
 Quill:
 ![quill models](images\quillmodels.png)
