@@ -602,60 +602,81 @@ Alternatively, I might use some tricks to make complex models lighter, such as u
 <img src="images/ocean-giants.png">
 </p>
 
-###### 2025-04-21
+[Back to navigation](#navigation)
+<br><br>
+
+###### 2025-04-21  
 ## Optimisation
 
-I researched retopology solutions, and for my case, I'd like to try the 3D Coat software for auto-retopology.
+I researched retopology solutions and plan to try 3D Coat software for auto-retopology.
 
+![static batch vs GPU instancing](images\unitytips.png)
 
 <img src="images/gpt-quest-optimisation.png">
 
-Auto-LOD:
+![performance tips](images\tips2.png)
+
+Auto-LOD video:  
 https://www.youtube.com/watch?v=EqVig88ZC_M
 
-I found this VRChat world that is detailed and quest compatible. The grass and flowers are pngs that rotate to always face the player which works quite well.
+I discovered a VRChat world that is both detailed and Quest-compatible. The grass and flowers use PNGs that always face the player, which works very well.
 
 <img src="images/2d-flowers.png">
 
 
-### Notes out of topic
 
-In [2024-12-17](#2024-12-17) Preparations for test day,
-I wrote this:
+### Off-Topic Notes
 
-"That idea made me think about how being frozen is a bit like being electrified/stunned. So, the characters could look like eels. A few ocean creatures have interesting defense mechanisms: eels, jellyfish, the inflated fish guy, etc. I want to look into that for the design."
+In [2024-12-17](#2024-12-17) (Preparations for Test Day), I wrote:
 
-If I do end up doing character design I'd like to remeber this and draw inspiration from eels, jellyfish, axolotle ect
+"That idea made me think about how being frozen is a bit like being electrified or stunned, so the characters could resemble eels. Some ocean creatures, like eels, jellyfish, and the inflated fish, have interesting defense mechanisms. I want to explore that for the design."
 
-[Back to navigation](#navigation)
-<br>
-<br>
-
-###### 2025-04-22
-## Opt-in and team making mechanic
-
-We could have 2 square areas where people go and stand.
-
-In most game you join a waiting line and get added when it's ready but i don't think it's the best solution here. 
-
-I do like how the vrchat volleyball world did it.
-
-Examples to check: 
-- VRchat volleyball, player clicks on a position and gets assigned to it, you can also choose the size of the teams-> 2v2, 5v5 ect
-- "murder 3" game each player stands in one of the circles
-- pool, first 2 players to click join
-
-If we cannot join mid-game then the games should be short.
+If I end up designing characters, I will remember this and draw inspiration accordingly.
 
 [Back to navigation](#navigation)
-<br>
-<br>
+<br><br>
 
-###### 2025-04-23
-## seaweed modelling test
+###### 2025-04-22  
+## Opt-In and Team Making Mechanic
 
-<img src="images\3d-seaweed-test.png">
+We could designate two square areas where players stand.
+
+Unlike most games where players join a waiting line until they are added, I prefer a different approach—similar to VRChat Volleyball, where players click a position and are assigned to it. Players can even choose team sizes (e.g., 2v2, 5v5).
+
+Alternative examples include "Murder 3" (players stand in designated circles) or pool (the first two players to click join).  
+If mid-game joining is not allowed, then rounds should be kept short.
 
 [Back to navigation](#navigation)
-<br>
-<br>
+<br><br>
+
+###### 2025-04-23  
+## Seaweed Modeling Test
+
+<img src="images/3d-seaweed-test.png">
+
+[Back to navigation](#navigation)
+<br><br>
+
+###### 2025-04-24  
+## More Modelling
+
+It turns out I need to use both Quill VR and Adobe Substance Modeler because they serve different purposes.
+
+Quill VR is great for creating flat strokes (as demonstrated in my test) where the strokes are 2D and lack depth. I will need a shader that renders both sides. Currently, I used vertex painting in Quill; I must decide whether to recolor or use a vertex shader.
+
+Substance Modeler is better for clay-like 3D shapes, which I will then recolor in Substance Painter.
+
+Although Quill has not been updated since 2021 and lacks alternatives, it has proven to be very stable—much more stable than Adobe Substance Modeler.
+
+[Back to navigation](#navigation)
+<br><br>
+
+###### 2025-04-24  
+## More Modelling
+
+Quill:
+![quill models](images\quillmodels.png)
+
+Substance modeler:
+(after retopo)
+![Substance models](images\substance-models.png)
