@@ -242,6 +242,242 @@ To Do for the Next Test:
 - Prototype a "goal" that shows points when the ball goes through.
 
 [Back to navigation](#navigation)
+<br>
+<br>
+
+
+###### 2025-02-01
+## VRchat volleyball inspiration
+![VRC volleyball](images/screenshotvolley3.png)
+I've played this volleyball game in vrchat with my friends and it was super fun !
+![reddit](images/screenshotvolley1.png)
+![reddit](images/screenshotvolley.png)
+-> usually games in vrchat have a latency issue but the creator found solutions that worked really well. I will need to find similar tricks for my game to work on VRchat.
+![tweet from creator](images/screenshotvolley4.png)
+That's what the creator said when I asked her on twitter.
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-04
+## //Alternative idea//
+After the discussion with Douglas an other project idea came up and I'm just putting it here for reference.
+
+The idea would be to start from specific muscle training movements, and make VR mini-games around those moves, 1 game per 1 training exercise. also would be cool to do that with rehabilitation.
+An other way to gamify exercising...
+
+Anyway moving on !
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-13
+## VRChat Water study
+
+I looked around in VRChat worlds at how people have made swimming more immersive.
+
+Video link:
+
+[![video exploring water](images/vrc-water-thumbnail.png)](https://www.youtube.com/watch?v=jfafK-0OhEc)
+
+*Click the image to view the video*
+
+Notes:
+- blur at distence
+- atmospheric color (whiter/bluer at distence) / blue tint
+- CAUSTICS ! (light textures)
+- light beams
+- water noises
+- muted/ echoey voices
+- whale noises and such in the background
+- lots of small fish swimming randlomly
+- tall weed
+- corail and sea plants
+- Jellyfish !
+- big rays
+- splach noises, when swiming or jumping in water
+- tiny bubbles when moving
+- bubbles coming up from the sand
+- slow movements, in the plants and particules
+
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-20
+## Underwater study in lake Geneva
+
+[![video under the lake](images/Screenshot-underwater.png)](https://youtu.be/TDBmF0spFLU?si=jVobeVIH7IiuPnLj)
+*Click the image to view the video*
+
+I threw my phone in the lake while filming, here are my observations:
+
+### How the Underwater audio feels
+Underwater, sound is muted but not weak: strong in the low end but lacking sharpness. It feels engulfing, with no clear direction, as if the sound wraps around you. There’s a thickness to it, like it’s being pushed through a dense medium.
+
+### Recreating Underwater Soundscapes
+
+**Attenuation** - High frequencies fade as sound travels.
+
+**Refraction** - Sound bends due to water temperature and pressure changes.
+
+**Absorption** - High frequencies disappear faster than low ones.
+
+**Impedance mismatch** - Water transmits sound differently than air, altering perception.
+
+**Non-directionality** - Sound seems to come from everywhere.
+
+**Low-pass filtering** - High frequencies are reduced, leaving deep, muffled tones.
+
+**Reverberation** - Continuous, diffused echoes rather than distinct reflections.
+
+### Caustics
+it was really cool to see how the caustics look in the real world. you can see how the shape of the water surface bends the light into moving patterns, and the color spectrum.
+
+### Particles
+I was able to study how the particles move and show the movement of the water. We can't really see the water movement but i was suprised to see that there are always particles making the flow visible.
+![Particles](images/particles.png)
+
+### Reflections
+the surface had a reflection of the bottom like a mirror.
+
+### Light beams
+The side of the sun had those light beams, subtle but mery much there. it looks beautiful.
+
+### distance fade
+in all the scenes without exeptions you can only see what's relatively close, as things ger further they fade into the color of the water.
+
+### Colour swab
+$\color{#4AA1BB}{\text{■}}$ blue $\color{#1680A1}{\text{■}}$ bottom blue $\color{#5C95CB}{\text{■}}$ surface blue $\color{#8DBDDB}{\text{■}}$ another surface blue $\color{#8DBDDB}{\text{■}}$ light beams $\color{#59B6BC}{\text{■}}$ murkier waters $\color{#81E5FF}{\text{■}}$ sky blue $\color{#2BC4D8}{\text{■}}$ water blue $\color{#125747}{\text{■}}$ algeas $\color{#627A3F}{\text{■}}$ $\color{#1E3823}{\text{■}}$ other algeas $\color{#589E8C}{\text{■}}$ greenish waters $\color{#59A879}{\text{■}}$ the ground/sand $\color{#54BEAF}{\text{■}}$ water above
+
+$\color{#4AA1BB}{\text{■}}$ $\color{#1680A1}{\text{■}}$ $\color{#5C95CB}{\text{■}}$ $\color{#8DBDDB}{\text{■}}$ $\color{#8DBDDB}{\text{■}}$ $\color{#59B6BC}{\text{■}}$ $\color{#81E5FF}{\text{■}}$ $\color{#2BC4D8}{\text{■}}$ $\color{#125747}{\text{■}}$ $\color{#627A3F}{\text{■}}$ $\color{#1E3823}{\text{■}}$ $\color{#589E8C}{\text{■}}$ $\color{#59A879}{\text{■}}$ $\color{#54BEAF}{\text{■}}$
+
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-25
+## Mid-Crit presentation
+*Wednesday 26.02 - 15h20*
+
+### Finball VR: An Underwater Team Sport for Virtual Reality
+
+"Finball VR" is a project focused on developing a new VR swimming locomotion system for a team-based underwater sport.
+
+The goal is to create an immersive and enjoyable experience where players can engage in social, competitive gameplay within a virtual aquatic environment. 
+
+By exploring innovative locomotion techniques and experimenting with DIY physical devices, the project aims to improve the immersion and movement of players. 
+
+Additionally, it will explore the potential of VRChat as a platform for social sports, despite its limitations, allowing for interactions and community. 
+
+The project addresses the challenge of creating a fluid, natural movement system for VR, particularly in team sports settings, as well as designing a new sport specifically with VR’s advantages and limitations in mind.
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-26
+## VR physical rigs and other physical devices
+
+[![VR rig swimming](images/swim-vr-rig.png)](https://www.youtube.com/watch?v=i-OqdQGlMzs)
+I've had a lot of interest in VR rigs for a long time but none of them seemed that good.
+I don't pretend I could find a solution, but in my case, which is specific to swimming, It would be interesting to design some kind of physical instalation to make the swimming more immersive.
+
+<img src="images/vrrig1.jpg"  style="width:55%; height:auto;">
+<img src="images/vrrig2.jpg"  style="width:40%; height:auto;">
+<img src="images/vrrig5.jpg"  style="width:45%; height:auto;">
+<img src="images/vrrig3.jpg"  style="width:45%; height:auto;">
+
+This guy's "weightless machine" would be my dream:
+<img src="images/vrrig4.jpg"  style="width:95%; height:auto;">
+
+[Link to video](https://www.youtube.com/watch?v=gSDtNkKPiDg)
+
+_______________________
+Here are images of physical devices that are used in medical applications such as rehabilitation.
+
+<img src="images/phisio1.png" style="width:50%; height:auto;">
+<img src="images/physio2.png"  style="width:40%; height:auto;">
+<img src="images/phisio3.png" style="width:40%; height:auto;">
+<img src="images/phisio4.png" style="width:30%; height:auto;">
+<img src="images/physio5.jpg"  style="width:50%; height:auto;">
+<img src="images/physio7.avif" style="width:40%; height:auto;">
+
+However, i felt uneasy Researching those because some of these people cannot walk or move in real life and im out here trying to move in VR with devices when I could simply do all those movements in real life without aid? Feels a little disrespectful.
+
+And a rig would not be compatible with mass adobtion/accesibility of my game, however it's still interesting to look into. The game should be designer to play without it but should be compatible with it if I get interesting results.
+
+With a rig I would want to add feet trackers but that would be a bother to gear up someone for an exhibition setting. Peharps some other tracking solution could work for this like AI body traking via video, if filming from underneath. it could be part of the device and seamless for users.
+
+A physical device however is also a lot of work and I doubt I could do both the device and the game....
+
+I should focus on the game first.
+
+If I manage to make the game fast and simple I could do the physical stuff :-)
+
+[Back to navigation](#navigation)
+
+<br>
+<br>
+
+###### 2025-02-27
+## Links for future references
+Fading at distance effect:
+I found this shader for a vrchat compatible performent fog
+https://github.com/frostbone25/Unity-Baked-Volumetrics
+
+Collection of all the useful links for VRChat dev:
+https://github.com/madjin/awesome-vrchat
+
+Caustics:
+https://booth.pm/en/items/3666514
+(1,200 JPY so about 7.21 Swiss Franc)
+
+fins:
+https://booth.pm/en/items/5429910
+
+VRC swimming:
+https://hirabiki.booth.pm/items/2127684
+![swimming-system](images/vrc-swimming.jpg)
+
+world to visit:
+https://vrchat.com/home/world/wrld_c87d9e7a-d46a-4ca4-9077-a6322ac0f7e7/info
+(smash contest, a smashing game)
+
+underwater effects:
+https://booth.pm/en/items/3263895
+
+
+<br>
+<br>
+
+###### 2025-03-03
+## VRC player rotation
+
+I was struggling to make a swimming mechanism in which you can rotate upside down, but then I found out that you simply canot rotate the player in VRC.
+however, there are ways as usual and what people seem to be doing is making the player "sit" on a rigidbody. and that rigidbody can rotate.
+
+I found that out on this guy's page about a 0 gravity system.
+
+https://tokiwa-carlo.booth.pm/items/5596315
+
+Translation: 
+
+■ Mechanism:
+Essentially, it’s just allowing you to sit on a Rigidbody that doesn’t experience gravity or air resistance.
+In addition, it follows the colliders of your hands and feet so you can interact with walls and other objects.
+
+His way of interacting with wall is interesting too. when swimming you should be able to push yourself on objects too
+
 
 
 [Back to navigation](#navigation)
@@ -680,3 +916,13 @@ Quill:
 Substance modeler:
 (after retopo)
 ![Substance models](images\substance-models.png)
+
+[Back to navigation](#navigation)
+<br><br>
+
+###### 2025-04-30
+## Com course
+
+Description as of today: 
+
+FinBall VR is a team-based underwater sports game for Virtual Reality devices. Players swim using hand gestures, interact with a dynamic ball, and play in a custom-designed and interactive aquatic environment. The game focuses on unique mechanics and an immersive underwater setting.
