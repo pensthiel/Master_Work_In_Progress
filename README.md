@@ -944,4 +944,7 @@ FinBall VR is a team-based underwater sports game for Virtual Reality devices. P
 I've scattered my assets around trying to make it look natural.
 The real test now will be mesuring performance...
 
-![alt text](image.png)
+![scattered-plants](images\scattered-plants1.png)
+![alt text](images\scattered-plants2.png)
+
+The background is empty but there will be distence fading or "fog" so it won't be visible
