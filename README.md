@@ -389,6 +389,8 @@ The project addresses the challenge of creating a fluid, natural movement system
 ## VR physical rigs and other physical devices
 
 [![VR rig swimming](images/swim-vr-rig.png)](https://www.youtube.com/watch?v=i-OqdQGlMzs)
+
+
 I've had a lot of interest in VR rigs for a long time but none of them seemed that good.
 I don't pretend I could find a solution, but in my case, which is specific to swimming, It would be interesting to design some kind of physical instalation to make the swimming more immersive.
 
@@ -945,9 +947,64 @@ I've scattered my assets around trying to make it look natural.
 The real test now will be mesuring performance...
 
 ![scattered-plants](images\scattered-plants1.png)
-![alt text](images\scattered-plants2.png)
+![scattered-plants2](images\scattered-plants2.png)
 
 The background is empty but there will be distence fading or "fog" so it won't be visible
+
+[Back to navigation](#navigation)
+<br><br>
+
+
+
+
+###### 2025-05-05
+## Tried to make caustics
+At first it was a math equation generating them but it didnt look that good and it was tanking performence so i ended up analysing someone els's method and i did it her way which looks better.
+
+Inspiration:
+https://vrmodels.store/other/shaders/20535-caustics-projector-shader.html
+
+Results:
+![caustics](images\Lauren-CAUSTICS.png)
+
+
+[Back to navigation](#navigation)
+<br><br>
+
+###### 2025-05-10
+## Textures and emission
+
+To texture the fish and goals i had desided to add emissives to make them visible through the fog... i had to fid a way to kind of fake a bloom effect because bloom costs too much performance.
+
+![fish1](images\texturesemission1.png)
+![fish2](images\texturesemission2.png)
+![goal1](images\texturesemission3.png)
+![goal3](images\texturesemission4.png)
+
+
+[Back to navigation](#navigation)
+<br><br>
+
+###### 2025-05-14
+## Last mid-crit feedback
+
+They liked the environnment and told me to focus on the gameplay now which i planned on doing. They insisted again on not compromising on the "fun" elements which are what would make my game special.
+
+- big whale or turtles as obstacles
+- moving ball- fish
+- currents
+- pehaps extra team-play mechanics
+
+We also discussed the scenography for the expo and since a tape square would be too boring i need to find a cool design to put on the floor as "vr area" delimitations.
+
+
+[Back to navigation](#navigation)
+<br><br>
+
+###### 2025-05-16
+## Tutor feedback
+
+Douglas talked about how the anvironment still feels a bit "dead", i agreed and I need to animate the goals and the ball, we also thought about where to display the score. perhaps some other things should be animated like fish benches. and plants.
 
 [Back to navigation](#navigation)
 <br><br>
