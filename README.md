@@ -1009,5 +1009,42 @@ Douglas talked about how the anvironment still feels a bit "dead", i agreed and 
 [Back to navigation](#navigation)
 <br><br>
 
-###### 2025-05-
-## 
+###### 2025-05-22
+## Scripting
+
+I've been scripting a bit, so here's an overview of what i've been doing:
+
+### GameManager UdonSharp script
+
+#### Core Functionalities
+Team Management: Handles player assignments to two teams (Blue and Purple), ensuring balanced teams and enforcing a maximum number of players per team.
+
+Game Flow Control: Manages the game's lifecycle, including starting, stopping, and resetting rounds, as well as handling scoring and determining winners.
+
+Player Teleportation: Teleports players to designated spawn points at game start, after goals, and at game end, ensuring spectators remain unaffected.
+
+UI Updates: Updates on-screen elements such as team scores, player counts, game timer, and winner announcements in real-time.
+
+Networking and Synchronization: Utilizes Udon's synchronization features to keep game state consistent across all players, including late joiners.
+
+Ownership Handling: Manages ownership transfers of the game object to ensure proper authority over game state changes.
+
+#### Implementation Details
+Team Arrays: Maintains arrays for each team to track player assignments and counts.
+
+Synced Variables: Uses [UdonSynced] attributes to synchronize critical game variables like scores and player counts across the network.
+
+Event Handling: Overrides Udon events such as OnPlayerJoined and OnPlayerLeft to manage player state and handle game abort conditions when necessary.
+
+UI Elements: Interacts with various UI components (e.g., TextMeshProUGUI) to reflect the current game state to players.
+
+Prefab Instantiation: Instantiates visual indicators (e.g., player circles) to represent team members during the game.
+
+[Back to navigation](#navigation)
+<br><br>
+
+###### 2025-05-25
+## networking
+Networking is a bit of a mess right now and it's not working so im trying to visualise stuff to see what needs to change in the current system... 
+![Networking spreadsheet](images\networkingspreadsheet1.png)
+
